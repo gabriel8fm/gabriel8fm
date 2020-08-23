@@ -1,6 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/gabriel8fm/gabriel8fm/master/wave.gif" width="30px">
 
-I'm **Gabriel Miranda**, father of 2, open source, DevOps, Linux and techonolgy enthusiastic
+I'm **Gabriel Miranda**, father of a :girl: and a :boy:
+
+I am a DevOps Engineer with 10+ years of managing Linux systems in high availability and critical mission environments. I'm also enthusiastic about Linux, open-source, technology.
+
 <!--
 **gabriel8fm/gabriel8fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
