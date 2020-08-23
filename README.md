@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/gabriel8fm/gabriel8fm/master/wave.gif" width="30px">
 
+I'm **Gabriel Miranda**, father of 2, open source, DevOps, Linux and techonolgy entusiastic
 <!--
 **gabriel8fm/gabriel8fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
