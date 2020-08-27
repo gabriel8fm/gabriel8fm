@@ -3,7 +3,7 @@
 <h3> :man_technologist: About Me </h3>
 
 - :bulb:      &nbsp; Discovering and exploring new technologies and developing software solutions.
-- :briefcase: &nbsp; Working as a DevOps Engineer at Moss Earth.
+- :briefcase: &nbsp; Working as a DevOps Engineer at [Moss Earth](https://moss.earth).
 - :books:     &nbsp; Always learning about Cloud Architecture, IaC, and Software Development
 
 <h3> :toolbox: Tech Stack</h3>
