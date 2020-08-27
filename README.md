@@ -19,5 +19,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel8fm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Miranda-blue?style=flat-%20%20%20%20square&logo=linkedin"><br></a>
-<a href="mailto:contato@gabrielmiranda.me"><img alt="Email" src="https://img.shields.io/badge/Email-contato@gabrielmiranda.me-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:contato@gabrielmiranda.me"><img alt="Email" src="https://img.shields.io/badge/Email-contato[at]gabrielmiranda[dot]me-blue?style=flat-square&logo=gmail"></a>
 </p>
