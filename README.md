@@ -1,35 +1,23 @@
-### Hi there <img src="https://raw.githubusercontent.com/gabriel8fm/gabriel8fm/master/wave.gif" width="30px">
+<h2> I'm Gabriel Miranda.</h2>
 
-I'm **Gabriel Miranda**, father of a :girl: and a :boy:
+<h3> :man_technologist: About Me </h3>
 
-I am a DevOps Engineer with 10+ years of managing Linux systems in high availability and critical mission environments. I'm also enthusiastic about Linux, open-source, technology.
+- :bulb:      &nbsp; Exploring new technologies and developing software solutions.
+- :briefcase: &nbsp; Working as a DevOps Engineer at Moss Earth.
+- :books:     &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.
 
-<!--
-**gabriel8fm/gabriel8fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> :toolbox: Tech Stack</h3>
 
-Here are some ideas to get you started:
+- :whale:             &nbsp; Docker | Kubernetes
+- :hammer_and_wrench: &nbsp; Terraform | Ansible | Saltstack
+- :cloud:             &nbsp; AWS | GCP
+- :recycle:           &nbsp; Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)
 
+<h3> :handshake: Connect with Me </h3>
 
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/gabriel8fm/gabriel8fm/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/gabriel8fm
-[2]: https://www.linkedin.com/in/gabriel8fm/
+<p align="center">
+<a href="https://www.linkedin.com/in/gabriel8fm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Miranda-blue?style=flat-%20%20%20%20square&logo=linkedin"></a>
+<a href="mailto:contato@gabrielmiranda.me"><img alt="Email" src="https://img.shields.io/badge/Email-contato@gabrielmiranda.me-blue?style=flat-square&logo=gmail"></a>
+</p>
