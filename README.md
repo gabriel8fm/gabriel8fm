@@ -4,7 +4,7 @@
 
 - :bulb:      &nbsp; Discovering and exploring new technologies and developing software solutions.
 - :briefcase: &nbsp; Working as a DevOps Engineer at [Moss Earth](https://moss.earth).
-- :books:     &nbsp; Always learning about Cloud Architecture, IaC, and Software Development
+- :books:     &nbsp; Always learning about Cloud Architecture, IaC, and Software Development and Engineering
 
 <h3> :toolbox: Tech Stack</h3>
 
