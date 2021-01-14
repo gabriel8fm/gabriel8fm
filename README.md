@@ -9,7 +9,7 @@
 <h3> :toolbox: Tech Stack</h3>
 
 - :whale:             &nbsp; Docker | Kubernetes
-- :hammer_and_wrench: &nbsp; Terraform | Ansible | Saltstack
+- :hammer_and_wrench: &nbsp; Terraform | Ansible
 - :cloud:             &nbsp; AWS | GCP
 - :recycle:           &nbsp; Git
 
