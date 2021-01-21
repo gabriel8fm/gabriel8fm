@@ -8,9 +8,10 @@
 
 <h3> :toolbox: Tech Stack</h3>
 
-- :whale:             &nbsp; Docker | Kubernetes
-- :hammer_and_wrench: &nbsp; Terraform | Ansible
 - :cloud:             &nbsp; AWS | GCP
+- :hammer_and_wrench: &nbsp; Terraform | Ansible
+- :twisted_rightwards_arrows: &nbsp; GitHub | GitLab | CircleCI
+- :whale:             &nbsp; Docker | Kubernetes
 - :recycle:           &nbsp; Git
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
