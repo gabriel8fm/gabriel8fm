@@ -9,10 +9,9 @@
 <h3> :toolbox: Tech Stack</h3>
 
 - :cloud:             &nbsp; AWS | GCP | Azure
-- :hammer_and_wrench: &nbsp; Terraform | Ansible
-- :twisted_rightwards_arrows: &nbsp; GitHub | GitLab | CircleCI
 - :whale:             &nbsp; Docker | Kubernetes
-- :recycle:           &nbsp; Git
+- :hammer_and_wrench: &nbsp; Terraform | Ansible
+- :recycle:           &nbsp; GitHub | GitLab | CircleCI
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8fm&layout=compact)](https://github.com/gabriel8fm/github-readme-stats)
