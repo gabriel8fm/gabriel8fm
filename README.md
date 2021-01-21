@@ -8,7 +8,7 @@
 
 <h3> :toolbox: Tech Stack</h3>
 
-- :cloud:             &nbsp; AWS | GCP
+- :cloud:             &nbsp; AWS | GCP | Azure
 - :hammer_and_wrench: &nbsp; Terraform | Ansible
 - :twisted_rightwards_arrows: &nbsp; GitHub | GitLab | CircleCI
 - :whale:             &nbsp; Docker | Kubernetes
