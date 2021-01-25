@@ -14,7 +14,6 @@
 - :recycle:           &nbsp; GitHub | GitLab | CircleCI
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel8fm&layout=compact)](https://github.com/gabriel8fm/github-readme-stats)
 
 <h3> :handshake: Connect with Me </h3>
 
