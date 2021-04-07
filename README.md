@@ -12,6 +12,7 @@
 - :whale:             &nbsp; Docker | Kubernetes
 - :hammer_and_wrench: &nbsp; Terraform | Ansible
 - :recycle:           &nbsp; GitHub | GitLab | CircleCI
+- :bar_chart:         &nbsp; Newrelic | Grafana
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
 
