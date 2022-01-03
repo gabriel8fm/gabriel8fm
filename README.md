@@ -4,7 +4,7 @@
 
 - :bulb:      &nbsp; Discovering and exploring new technologies and developing software solutions.
 - :briefcase: &nbsp; Working as a DevOps Engineer | SRE
-- :books:     &nbsp; Always learning about Cloud Architecture, IaC, and Software Development and Engineering
+- :books:     &nbsp; Always learning about Cloud Architecture, infrastructure as code, Software Development and Engineering
 
 <h3> :mortar_board: Certifications </h3>
 
