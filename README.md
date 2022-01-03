@@ -6,6 +6,13 @@
 - :briefcase: &nbsp; Working as a DevOps Engineer.
 - :books:     &nbsp; Always learning about Cloud Architecture, IaC, and Software Development and Engineering
 
+<h3> :mortar_board: Certifications </h3>
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b21c882e-3ac8-41aa-b091-ddc56b815cc1/public_url)
+- [Google Cloud Certified - Associate Cloud Engineer](https://www.credential.net/b6e10198-8792-44db-9e24-0984a00a61f3)
+- [Uncomplicating Docker](https://www.credential.net/0f5e5bc7-7763-41bb-bc88-9fd6b6ec44cb#gs.kmca4c)
+- [Uncomplicating Kubernetes](https://www.credential.net/39b4c1c8-86f8-4292-adb6-89cc3e1c605f#gs.kmccr3)
+
 <h3> :toolbox: Tech Stack</h3>
 
 - :cloud:             &nbsp; AWS | GCP | Azure
