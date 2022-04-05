@@ -15,11 +15,11 @@
 
 <h3> :toolbox: Tech Stack</h3>
 
-- :cloud:             &nbsp; AWS | GCP
+- :cloud:             &nbsp; AWS | GCP | Azure
 - :whale:             &nbsp; Docker | Kubernetes
-- :hammer_and_wrench: &nbsp; Terraform | Ansible
+- :hammer_and_wrench: &nbsp; Terraform | Ansible | Packer
 - :recycle:           &nbsp; GitHub | GitLab | CircleCI
-- :bar_chart:         &nbsp; Newrelic | Grafana | Datadog | Stackdriver | Cloudwatch
+- :bar_chart:         &nbsp; AWS CloudWatch | GCP Cloud Logging | Grafana | Datadog | Newrelic
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
 
