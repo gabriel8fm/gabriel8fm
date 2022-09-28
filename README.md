@@ -10,6 +10,9 @@
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b21c882e-3ac8-41aa-b091-ddc56b815cc1/public_url)
 - [Google Cloud Certified - Associate Cloud Engineer](https://www.credential.net/b6e10198-8792-44db-9e24-0984a00a61f3)
+- [Container Expert](https://www.credential.net/6982e389-9cd3-4f2d-a46e-c49430d9a31c#gs.dc8hak)
+- [DevOps Bootcampp by Estabilis](https://www.credential.net/046041f5-07fe-421c-aa57-b26381dea512)
+- [Uncomplicating Istio](https://www.credential.net/cb5d3059-bdbb-4861-a9fe-d42429d8919d)
 - [Uncomplicating Docker](https://www.credential.net/0f5e5bc7-7763-41bb-bc88-9fd6b6ec44cb#gs.kmca4c)
 - [Uncomplicating Kubernetes](https://www.credential.net/39b4c1c8-86f8-4292-adb6-89cc3e1c605f#gs.kmccr3)
 
