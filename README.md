@@ -18,10 +18,10 @@
 
 <h3> :toolbox: Tech Stack</h3>
 
-- :cloud:             &nbsp; AWS | GCP | Azure
+- :cloud:             &nbsp; AWS | GCP
 - :whale:             &nbsp; Docker | Kubernetes
 - :hammer_and_wrench: &nbsp; Terraform | Ansible | Packer
-- :recycle:           &nbsp; GitHub | GitLab | CircleCI
+- :recycle:           &nbsp; GitLab | GitHub Actions | CircleCI
 - :bar_chart:         &nbsp; AWS CloudWatch | GCP Cloud Logging | Grafana | Datadog | Newrelic
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
