@@ -3,7 +3,7 @@
 <h3> :man_technologist: About Me </h3>
 
 - :bulb:      &nbsp; Discovering and exploring new technologies and developing software solutions.
-- :briefcase: &nbsp; Working as a DevOps Engineer | SRE | Cloud Architect
+- :briefcase: &nbsp; Working as a Platform Engineer | DevOps & SRE | Cloud Architect
 - :books:     &nbsp; Always learning about Cloud Architecture, infrastructure as code, Software Engineering
 
 <h3> :mortar_board: Certifications </h3>
