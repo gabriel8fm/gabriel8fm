@@ -18,8 +18,8 @@
 
 <h3> :toolbox: Tech Stack</h3>
 
-- :cloud:             &nbsp; AWS | GCP | Azure
-- :whale:             &nbsp; Docker | Podman | Kubernetes
+- :cloud:             &nbsp; AWS | GCP
+- :whale:             &nbsp; Docker | Kubernetes
 - :hammer_and_wrench: &nbsp; Terraform | Ansible | Packer
 - :recycle:           &nbsp; GitLab | GitHub Actions | CircleCI | Jenkins
 - :bar_chart:         &nbsp; AWS CloudWatch | GCP Stackdriver | Grafana | Graylog | Datadog | Newrelic | Elastic | Fluentd | Prometheus
