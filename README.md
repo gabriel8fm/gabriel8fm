@@ -1,10 +1,23 @@
-<h2> I'm Gabriel Miranda.</h2>
+<h1 align="center">Hi, I'm Gabriel Miranda 👋</h1>
+<h3 align="center">Senior Cloud / Platform Engineer</h3>
 
 <h3> :man_technologist: About Me </h3>
 
-- :bulb:      &nbsp; Discovering and exploring new technologies and developing software solutions.
-- :briefcase: &nbsp; Working as a DevOps Engineer | Platform Engineer | SRE | Cloud Architect
-- :books:     &nbsp; Always learning about Cloud Architecture, infrastructure as code, Software Engineering
+- :bulb:      &nbsp; 15+ years turning fragile infrastructure into reliable, self-service platforms.
+- :briefcase: &nbsp; Working across DevOps, Platform Engineering, SRE, and Cloud Architecture roles.
+- :cloud:     &nbsp; Deep hands-on experience designing and running multi-cloud (AWS & GCP) production systems.
+- :robot:     &nbsp; Recently focused on bringing AI-assisted workflows into day-to-day infrastructure and platform work.
+- :books:     &nbsp; Always learning — Cloud Architecture, Infrastructure as Code, Kubernetes, and applied AI tooling.
+
+<h3> :robot: AI-Assisted Engineering </h3>
+
+Over the last year I've been integrating AI coding assistants and LLM-based tooling directly into infrastructure and platform workflows, rather than treating them as a novelty:
+
+- :zap: &nbsp; Using AI pair-programming to accelerate authoring of Terraform/OpenTofu modules, Kubernetes manifests, and CI/CD pipeline configuration.
+- :mag: &nbsp; Automating first-pass code review and static analysis to catch misconfigurations and security drift before they reach production.
+- :page_facing_up: &nbsp; Generating and maintaining runbooks and operational documentation directly from infrastructure code and incident context.
+- :bulb: &nbsp; Using LLM-assisted root-cause analysis to speed up triage of cross-cutting issues across networking, auth, and service connectivity.
+- :handshake: &nbsp; Sharing these workflows with teams to shorten iteration cycles and spread infrastructure knowledge beyond a single engineer.
 
 <h3> :mortar_board: Certifications </h3>
 
@@ -19,10 +32,11 @@
 <h3> :toolbox: Tech Stack</h3>
 
 - :cloud:             &nbsp; AWS | GCP
-- :whale:             &nbsp; Docker | Kubernetes
-- :hammer_and_wrench: &nbsp; Terraform | Ansible | Packer
-- :recycle:           &nbsp; GitLab | GitHub Actions | CircleCI | Jenkins
-- :bar_chart:         &nbsp; AWS CloudWatch | GCP Stackdriver | Grafana | Graylog | Datadog | Newrelic | Elastic | Fluentd | Prometheus
+- :whale:             &nbsp; Docker | Kubernetes (EKS, GKE)
+- :hammer_and_wrench: &nbsp; Terraform | OpenTofu | Ansible | Packer | Helm
+- :recycle:           &nbsp; GitLab CI | GitHub Actions | CircleCI | Jenkins
+- :bar_chart:         &nbsp; CloudWatch | Grafana | Datadog | New Relic | Elastic | Fluentd | Prometheus
+- :robot:             &nbsp; Claude Code | LLM-assisted infrastructure & operations tooling
 
 [![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel8fm&show_icons=true)](https://github.com/gabriel8fm)<br>
 
