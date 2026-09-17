@@ -31,3 +31,6 @@
 <p align="center">
 <a href="mailto:contato@gabrielmiranda.me"><img alt="Email" src="https://img.shields.io/badge/Email-contato[at]gabrielmiranda[dot]me-blue?style=flat-square&logo=gmail"></a>
 </p>
+<p align="center">
+<a href="mailto:gabriel8fm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabriel8fm[at]gmail[dot]com-blue?style=flat-square&logo=gmail"></a>
+</p>
