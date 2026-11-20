@@ -4,10 +4,10 @@
 <h3> :man_technologist: About Me </h3>
 
 - :bulb:      &nbsp; 15+ years turning fragile infrastructure into reliable, self-service platforms.
-- :briefcase: &nbsp; Working across DevOps, Platform Engineering, SRE, and Cloud Architecture roles.
+- :briefcase: &nbsp; Working across Platform Engineering Architecture roles.
 - :cloud:     &nbsp; Deep hands-on experience designing and running multi-cloud (AWS & GCP) production systems.
 - :robot:     &nbsp; Recently focused on bringing AI-assisted workflows into day-to-day infrastructure and platform work.
-- :books:     &nbsp; Always learning — Cloud Architecture, Infrastructure as Code, Kubernetes, and applied AI tooling.
+- :books:     &nbsp; Always learning Cloud Architecture, Infrastructure as Code, Kubernetes, and applied AI tooling.
 
 <h3> :robot: AI-Assisted Engineering </h3>
 
