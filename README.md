@@ -7,7 +7,7 @@
 - :briefcase:     &nbsp; Working across Platform Engineering Architecture roles.
 - :cloud:         &nbsp; Deep hands-on experience designing and running multi-cloud (AWS & GCP) production systems for food service, retail, payments, e-commerce and climate tech.
 - :earth_americas: &nbsp; Fully remote with US-based teams since 2020.
-- :bar_chart:     &nbsp; Specializing in DataOps on Google Cloud: tested, observable and replayable data pipelines.
+- :bar_chart:     &nbsp; Specializing in DataOps Engineering across clouds, mainly AWS and GCP: tested, observable and replayable data pipelines.
 - :mortar_board:  &nbsp; Postgraduate student in Applied AI Software Engineering (expected 2028).
 - :books:         &nbsp; Always learning Cloud Architecture, Infrastructure as Code, Kubernetes, and applied AI tooling.
 
@@ -23,20 +23,22 @@
 - :lock: &nbsp; **Security.** Least-privilege IAM, centralized secrets management, WAF rule sets, private clusters, and PCI-DSS certification for a payments platform.
 - :busts_in_silhouette: &nbsp; **Leadership.** Led a six-person team, and hired and mentored three engineers.
 
-<h3> :bar_chart: Current Focus: DataOps on Google Cloud </h3>
+<h3> :bar_chart: Current Focus: DataOps Engineering </h3>
 
-DataOps applies DevOps practices to data: small, automated and tested changes to code and to data, with the health of the data measured like a service.
+DataOps applies DevOps practices to data: small, automated and tested changes to code and to data, with the health of the data measured like a service. The practices don't depend on one cloud; I apply them mainly on AWS and Google Cloud.
 
 - :page_with_curl: &nbsp; **Data contracts** per source: schema, grain, freshness target and owner, versioned and checked in CI.
-- :card_file_box: &nbsp; **Immutable raw data and layered models** (raw, staging, validated), so any table can be rebuilt by replaying raw data.
-- :repeat: &nbsp; **Idempotent, partition-scoped loads** in BigQuery, so a backfill is just a re-run over a date range and a retry never duplicates rows.
+- :card_file_box: &nbsp; **Immutable raw data and layered models** (raw, staging, validated) on S3 or Cloud Storage, so any table can be rebuilt by replaying raw data.
+- :repeat: &nbsp; **Idempotent, partition-scoped loads**, so a backfill is just a re-run over a date range and a retry never duplicates rows.
+- :incoming_envelope: &nbsp; **Event ingestion that never loses data:** dead-letter queues, redrive and replay with SQS, EventBridge or Pub/Sub.
 - :white_check_mark: &nbsp; **Write, audit, publish:** quality assertions gate what consumers read, and a failed check keeps the last good data in place.
+- :rocket: &nbsp; **Data jobs delivered like application code:** plan, apply, drift detection and rollback, on AWS Glue or Google Cloud.
 - :mag_right: &nbsp; **Data observability:** freshness, volume, schema, distribution and lineage, alongside pipeline health and cost.
-- :moneybag: &nbsp; **BigQuery cost control** with partitioning, clustering, byte limits and job labels.
+- :moneybag: &nbsp; **Cost control on scanned data:** partitioning, clustering, byte limits and cost-allocation labels.
 
 Portfolio project: [gcp-dataops-runbook-assistant](https://github.com/gabriel8fm/gcp-dataops-runbook-assistant), an incident-data pipeline on BigQuery with idempotent loads, replay, eight Dataform assertions, Terraform built on `terraform-google-modules`, and offline CI in GitHub Actions.
 
-Next on my list: Cloud Composer (Airflow) orchestration and Dataflow.
+Next on my list: Airflow orchestration on Amazon MWAA and Cloud Composer.
 
 <h3> :mortar_board: Education </h3>
 
@@ -69,7 +71,7 @@ Over the last year I've been integrating AI coding assistants and LLM-based tool
 - :whale:             &nbsp; Docker | Kubernetes (EKS, GKE) | Helm | ArgoCD
 - :hammer_and_wrench: &nbsp; Terraform | OpenTofu | Atlantis | Ansible | Packer
 - :recycle:           &nbsp; GitLab CI | GitHub Actions | CircleCI | Jenkins
-- :card_file_box:     &nbsp; BigQuery | Dataform | Pub/Sub | AWS Glue | PostgreSQL | MySQL
+- :card_file_box:     &nbsp; AWS Glue | S3 | EventBridge | SQS | DynamoDB | BigQuery | Dataform | Pub/Sub | PostgreSQL | MySQL
 - :bar_chart:         &nbsp; Grafana | Grafana Alloy | OpenTelemetry | Prometheus | Datadog | New Relic | CloudWatch | Elastic | Fluentd
 - :lock:              &nbsp; IAM | Workload Identity | OIDC federation | Secrets Manager | WAF | OPA Gatekeeper
 - :keyboard:          &nbsp; Python | Bash | SQL
