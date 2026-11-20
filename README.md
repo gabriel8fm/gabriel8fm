@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Gabriel Miranda 👋</h1>
-<h3 align="center">Senior Cloud / Platform Engineer · Specializing in DataOps</h3>
+<h3 align="center">Senior Platform Engineer · Specializing in DataOps</h3>
 
 <h3> :man_technologist: About Me </h3>
 
-- :bulb:          &nbsp; 15+ years turning fragile infrastructure into reliable, self-service platforms, with DevOps and platform roles since 2018.
+- :bulb:          &nbsp; Platform Engineer with 15+ years turning fragile infrastructure into reliable, self-service platforms, applying DevOps, SRE and Cloud engineering best practices.
 - :briefcase:     &nbsp; Working across Platform Engineering Architecture roles.
 - :cloud:         &nbsp; Deep hands-on experience designing and running multi-cloud (AWS & GCP) production systems for food service, retail, payments, e-commerce and climate tech.
 - :earth_americas: &nbsp; Fully remote with US-based teams since 2020.
